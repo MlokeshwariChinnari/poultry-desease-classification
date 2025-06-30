@@ -1,1 +1,1 @@
-# poultry-desease-classification
+# Poultry-Diseases-Classification
